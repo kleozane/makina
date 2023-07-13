@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\bin\Debug\net6.0\Kleo.exe
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\bin\Debug\net6.0\Kleo.deps.json
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\bin\Debug\net6.0\Kleo.runtimeconfig.json
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\bin\Debug\net6.0\Kleo.dll
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\bin\Debug\net6.0\Kleo.pdb
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\obj\Debug\net6.0\Kleo.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\obj\Debug\net6.0\Kleo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\obj\Debug\net6.0\Kleo.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\obj\Debug\net6.0\Kleo.AssemblyInfo.cs
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\obj\Debug\net6.0\Kleo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\obj\Debug\net6.0\Kleo.dll
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\obj\Debug\net6.0\refint\Kleo.dll
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\obj\Debug\net6.0\Kleo.pdb
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\obj\Debug\net6.0\Kleo.genruntimeconfig.cache
+C:\Users\USER\Desktop\c# gr elvi mos eprek\Kleo\Kleo\obj\Debug\net6.0\ref\Kleo.dll
