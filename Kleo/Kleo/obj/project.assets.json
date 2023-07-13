@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\c# gr elvi mos eprek\\Kleo\\Kleo\\Kleo.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Test Makina\\Kleo\\Kleo\\Kleo.csproj",
       "projectName": "Kleo",
-      "projectPath": "C:\\Users\\USER\\Desktop\\c# gr elvi mos eprek\\Kleo\\Kleo\\Kleo.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Test Makina\\Kleo\\Kleo\\Kleo.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\c# gr elvi mos eprek\\Kleo\\Kleo\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Test Makina\\Kleo\\Kleo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
