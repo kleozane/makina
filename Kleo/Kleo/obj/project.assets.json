@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Test Makina\\Kleo\\Kleo\\Kleo.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\MakinaGeraldit\\Kleo\\Kleo\\Kleo.csproj",
       "projectName": "Kleo",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Test Makina\\Kleo\\Kleo\\Kleo.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\MakinaGeraldit\\Kleo\\Kleo\\Kleo.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Test Makina\\Kleo\\Kleo\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\MakinaGeraldit\\Kleo\\Kleo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

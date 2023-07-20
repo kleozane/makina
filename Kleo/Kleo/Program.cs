@@ -14,6 +14,8 @@ int opsioni = Convert.ToInt32(Console.ReadLine());
 
 // Ky eshte nje koment
 
+//010111001011101011
+
 if (opsioni == 1)
 {
     audi.Specifikimet(audi);
