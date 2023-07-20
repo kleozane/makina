@@ -5,7 +5,7 @@ double Buxheti = 10000;
 Makina audi = new Makina("Audi", "A7", 2014, "Sedan", "Nafte", 3.0, 75, 75, 0.047);
 Makina bmw = new Makina("BMW", "M4", 2008, "Hatch", "Benzine", 3.6, 57, 57, 0.096);
 Makina mercedes = new Makina("Mercedes", "w204", 2008, "SUV", "Benzine", 6.3, 66, 66, 0.134);
-
+   
 Console.WriteLine("Mire se erdhet ne AUTO Motors");
 Console.WriteLine("Ju lutem zgjidhi nje model:");
 Console.WriteLine($"1. {audi.Marka} {audi.Modeli}       2. {bmw.Marka} {bmw.Modeli}     3. {mercedes.Marka} {mercedes.Modeli}");
@@ -15,6 +15,8 @@ int opsioni = Convert.ToInt32(Console.ReadLine());
 // Ky eshte nje koment
 
 //010111001011101011
+
+//Enio
 
 if (opsioni == 1)
 {
